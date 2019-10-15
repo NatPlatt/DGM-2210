@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 236d4ac2a411cb448924fc17f1abacd0
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: awningAndExhaust
+    100002: background
+    100004: chair1
+    100006: chair2
+    100008: chair3
+    100010: chair4
+    100012: //RootNode
+    100014: ground
+    100016: hitch
+    100018: largeCooler
+    100020: rock
+    100022: smallCooler1
+    100024: tanks
+    100026: tire3
+    100028: trailer1
+    100030: trailerTires
+    100032: truckFull
+    100034: woodStructure
+    100036: woodWalkway
+    400000: awningAndExhaust
+    400002: background
+    400004: chair1
+    400006: chair2
+    400008: chair3
+    400010: chair4
+    400012: //RootNode
+    400014: ground
+    400016: hitch
+    400018: largeCooler
+    400020: rock
+    400022: smallCooler1
+    400024: tanks
+    400026: tire3
+    400028: trailer1
+    400030: trailerTires
+    400032: truckFull
+    400034: woodStructure
+    400036: woodWalkway
+    2100000: lambert3
+    2100002: blinn7darkRed
+    2100004: lambert2
+    2100006: lambert4mediumGray
+    2100008: blinn8silver
+    2100010: blinn6TruckWindows
+    2100012: lambert18greyBrown
+    2100014: blinn5ChairLegs
+    2100016: lambert6
+    2100018: lambert19darkRed
+    2100020: lambert13darkBlue
+    2100022: lambert14white
+    2100024: lambert5
+    2100026: lambert20LightBlue
+    2100028: lambert21green
+    2100030: lambert22navy
+    2100032: lambert17red
+    2100034: lambert15
+    2100036: lambert16
+    2100038: blinn4
+    2100040: blinn3white
+    2100042: lambert8
+    2100044: blinn1yellowWindows
+    2100046: lambert7
+    2100048: blinn2orangeLights
+    2100050: lambert12groundBrown
+    2300000: awningAndExhaust
+    2300002: background
+    2300004: chair1
+    2300006: chair2
+    2300008: chair3
+    2300010: chair4
+    2300012: ground
+    2300014: hitch
+    2300016: largeCooler
+    2300018: rock
+    2300020: smallCooler1
+    2300022: tanks
+    2300024: tire3
+    2300026: trailer1
+    2300028: trailerTires
+    2300030: truckFull
+    2300032: woodStructure
+    2300034: woodWalkway
+    3300000: awningAndExhaust
+    3300002: background
+    3300004: chair1
+    3300006: chair2
+    3300008: chair3
+    3300010: chair4
+    3300012: ground
+    3300014: hitch
+    3300016: largeCooler
+    3300018: rock
+    3300020: smallCooler1
+    3300022: tanks
+    3300024: tire3
+    3300026: trailer1
+    3300028: trailerTires
+    3300030: truckFull
+    3300032: woodStructure
+    3300034: woodWalkway
+    4300000: tire3
+    4300002: truckFull
+    4300004: rock
+    4300006: chair1
+    4300008: largeCooler
+    4300010: chair2
+    4300012: chair3
+    4300014: chair4
+    4300016: smallCooler1
+    4300018: woodWalkway
+    4300020: woodStructure
+    4300022: hitch
+    4300024: tanks
+    4300026: trailer1
+    4300028: awningAndExhaust
+    4300030: trailerTires
+    4300032: ground
+    4300034: background
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
