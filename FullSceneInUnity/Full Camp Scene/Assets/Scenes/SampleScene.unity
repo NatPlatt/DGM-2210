@@ -152,7 +152,7 @@ Light:
     m_NormalBias: 0.4
     m_NearPlane: 0.2
   m_Cookie: {fileID: 0}
-  m_DrawHalo: 1
+  m_DrawHalo: 0
   m_Flare: {fileID: 0}
   m_RenderMode: 0
   m_CullingMask:
@@ -10022,15 +10022,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400014, guid: 236d4ac2a411cb448924fc17f1abacd0, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.614142
+      value: 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 400014, guid: 236d4ac2a411cb448924fc17f1abacd0, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.6141422
+      value: 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 400014, guid: 236d4ac2a411cb448924fc17f1abacd0, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.6141422
+      value: 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 400022, guid: 236d4ac2a411cb448924fc17f1abacd0, type: 3}
       propertyPath: m_LocalPosition.y
@@ -10052,6 +10052,10 @@ Prefab:
       propertyPath: m_LocalPosition.y
       value: 0.01099
       objectReference: {fileID: 0}
+    - target: {fileID: 2300018, guid: 236d4ac2a411cb448924fc17f1abacd0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2d036ea29c5fa2f4e9f1e36993ce5909, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 236d4ac2a411cb448924fc17f1abacd0, type: 3}
   m_IsPrefabParent: 0
